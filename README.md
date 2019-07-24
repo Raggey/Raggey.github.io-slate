@@ -114,4 +114,4 @@ Special Thanks
 - [middleman-gh-pages](https://github.com/edgecase/middleman-gh-pages)
 - [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 
-New thanks 2
+New thanks 3
